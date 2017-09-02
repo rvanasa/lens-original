@@ -8,6 +8,6 @@ Using a terse and expressive grammar, Lens is capable of providing students with
 
 Due to its concise and familiar syntax, evaluators spend less time in training and students spend less time debugging syntax. 
 
-While this version of the language is by no means optimized nor competitive in the current software development industry, this implementation stands as a highly effective resource for holistically introducing people to the world of programming.
+While the language is very early in its development, this implementation stands as a highly effective resource for holistically introducing people to the world of programming.
 
 Thanks for stopping by! If you would like to use or contribute to the Lens programming language, please email me and I will be happy to provide assistance. 
