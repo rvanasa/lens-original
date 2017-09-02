@@ -1,7 +1,7 @@
 # Lens Scripting Language
 ### Original Java Implementation from 2016
 
-Welcome to the Lens Project! This repository contains the [Source Code](src/main/java/net/rvanasa/lens) and [Documentation](documentation.pdf) for the legacy (2016) version of the Lens programming language concept.
+Welcome to the Lens Project! This repository contains the [Java Source Code](src/main/java/net/rvanasa/lens) and [Documentation](documentation.pdf) for the legacy (2016) version of the Lens programming language concept.
 
 Lens is a multi-paradigm scripting language designed for seamless usage in both educational and professional environments. 
 Using a terse and expressive grammar, Lens is capable of providing students with a strong intuition of the functional, imperative, object-oriented, and symbolic programming paradigms. 
